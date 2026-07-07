@@ -1,0 +1,10 @@
+{
+  "name": "segla",
+  "version": "0.1.0",
+  "description": "A 2D sailing game — learn to sail a Laser dinghy.",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "build": "node build.js"
+  }
+}
